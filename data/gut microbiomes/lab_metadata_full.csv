@@ -1,0 +1,154 @@
+Bee_ID,index,index_dash,host,diet,plate,Species,Sex,Colony,Wing,Date_removed_from_fridge,Emerge_start_date,Treatment,No_pollen_spp,Pollen_comp,Dead,Death_date,Notes,Age,diet_initials
+1,lab.p1.sample.1,lab-p1-sample-1,B. impatiens,Dandelion,1,B. impatiens,FALSE,3,0.226,NA,8/11/21,1-A,1,Dandelion,NA,NA,"callow, 10 ul of feces",callow,D
+2,lab.p1.sample.2,lab-p1-sample-2,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,3,0.229,NA,8/11/21,2-D,2,Dandelion + Sumac,NA,NA,"callow, 10 ul of feces",callow,D + S
+3,lab.p1.sample.3,lab-p1-sample-3,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,3,0.227,NA,8/11/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+4,lab.p1.sample.4,lab-p1-sample-4,B. impatiens,Sumac,1,B. impatiens,FALSE,3,0.222,NA,8/11/21,1-B,1,Sumac,NA,NA,"callow, 10 ul of feces",callow,S
+5,lab.p1.sample.5,lab-p1-sample-5,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,8,0.182,NA,8/11/21,2-E,2,Dandelion + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + H
+6,lab.p1.sample.6,lab-p1-sample-6,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,13,0.176,NA,8/11/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+7,lab.p1.sample.7,lab-p1-sample-7,B. impatiens,Hawthorn,1,B. impatiens,FALSE,3,0.218,NA,8/14/21,1-C,1,Hawthorn,NA,NA,"callow, 10 ul of feces",callow,H
+8,lab.p1.sample.8,lab-p1-sample-8,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,3,0.263,NA,8/14/21,2-F,2,Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,S + H
+9,lab.p1.sample.9,lab-p1-sample-9,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.229,NA,8/14/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+11,lab.p1.sample.11,lab-p1-sample-11,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,3,0.236,NA,8/16/21,2-D,2,Dandelion + Sumac,NA,NA,"callow, 10 ul of feces",callow,D + S
+12,lab.p1.sample.12,lab-p1-sample-12,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,3,0.24,NA,8/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+13,lab.p1.sample.13,lab-p1-sample-13,B. impatiens,Sumac,1,B. impatiens,FALSE,3,0.25,NA,8/16/21,1-B,1,Sumac,NA,NA,"callow, 10 ul of feces",callow,S
+14,lab.p1.sample.14,lab-p1-sample-14,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,37,0.239,NA,8/16/21,2-E,2,Dandelion + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + H
+15,lab.p1.sample.15,lab-p1-sample-15,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.263,NA,8/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+16,lab.p1.sample.16,lab-p1-sample-16,B. impatiens,Hawthorn,1,B. impatiens,FALSE,9,0.23,NA,8/16/21,1-C,1,Hawthorn,NA,NA,"callow, 10 ul of feces",callow,H
+17,lab.p1.sample.17,lab-p1-sample-17,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.25,NA,8/16/21,2-F,2,Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,S + H
+18,lab.p1.sample.18,lab-p1-sample-18,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,35,0.249,NA,8/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+19,lab.p1.sample.19,lab-p1-sample-19,B. impatiens,Dandelion,1,B. impatiens,FALSE,8,0.266,NA,8/16/21,1-A,1,Dandelion,NA,NA,"callow, 10 ul of feces",callow,D
+20,lab.p1.sample.20,lab-p1-sample-20,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,9,0.253,NA,8/16/21,2-D,2,Dandelion + Sumac,NA,NA,"callow, 10 ul of feces",callow,D + S
+21,lab.p1.sample.21,lab-p1-sample-21,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.263,NA,8/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+22,lab.p1.sample.22,lab-p1-sample-22,B. impatiens,Sumac,1,B. impatiens,FALSE,9,0.226,NA,8/16/21,1-B,1,Sumac,NA,NA,"callow, 10 ul of feces",callow,S
+23,lab.p1.sample.23,lab-p1-sample-23,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,9,0.255,NA,8/16/21,2-E,2,Dandelion + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + H
+24,lab.p1.sample.24,lab-p1-sample-24,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,13,0.263,NA,8/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+25,lab.p1.sample.25,lab-p1-sample-25,B. impatiens,Hawthorn,1,B. impatiens,FALSE,37,0.249,NA,8/16/21,1-C,1,Hawthorn,NA,NA,"callow, 10 ul of feces",callow,H
+26,lab.p1.sample.26,lab-p1-sample-26,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.276,NA,8/16/21,2-F,2,Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,S + H
+27,lab.p1.sample.27,lab-p1-sample-27,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.277,NA,8/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+28,lab.p1.sample.28,lab-p1-sample-28,B. impatiens,Dandelion,1,B. impatiens,FALSE,37,0.236,NA,8/17/21,1-A,1,Dandelion,NA,NA,"callow, 10 ul of feces",callow,D
+29,lab.p1.sample.29,lab-p1-sample-29,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,37,0.233,NA,8/17/21,2-D,2,Dandelion + Sumac,NA,NA,"callow, 10 ul of feces",callow,D + S
+30,lab.p1.sample.30,lab-p1-sample-30,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.229,NA,8/17/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+31,lab.p1.sample.31,lab-p1-sample-31,B. impatiens,Sumac,1,B. impatiens,FALSE,37,0.21,NA,8/17/21,1-B,1,Sumac,NA,NA,"callow, 10 ul of feces",callow,S
+32,lab.p1.sample.32,lab-p1-sample-32,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,9,0.214,NA,8/17/21,2-E,2,Dandelion + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + H
+33,lab.p1.sample.33,lab-p1-sample-33,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.253,NA,8/17/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+34,lab.p1.sample.34,lab-p1-sample-34,B. impatiens,Hawthorn,1,B. impatiens,FALSE,8,0.282,NA,8/17/21,1-C,1,Hawthorn,NA,NA,"callow, 10 ul of feces",callow,H
+35,lab.p1.sample.35,lab-p1-sample-35,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,13,0.21,NA,8/17/21,2-F,2,Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,S + H
+36,lab.p1.sample.36,lab-p1-sample-36,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,3,0.217,NA,8/17/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+37,lab.p1.sample.37,lab-p1-sample-37,B. impatiens,Dandelion,1,B. impatiens,FALSE,35,0.246,NA,8/17/21,1-A,1,Dandelion,NA,NA,"callow, 10 ul of feces",callow,D
+38,lab.p1.sample.38,lab-p1-sample-38,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,8,0.27,NA,8/17/21,2-D,2,Dandelion + Sumac,NA,NA,"callow, 10 ul of feces",callow,D + S
+39,lab.p1.sample.39,lab-p1-sample-39,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.272,NA,8/17/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+40,lab.p1.sample.40,lab-p1-sample-40,B. impatiens,Sumac,1,B. impatiens,FALSE,9,0.213,NA,8/18/21,1-B,1,Sumac,NA,NA,"callow, 10 ul of feces",callow,S
+41,lab.p1.sample.41,lab-p1-sample-41,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,9,0.204,NA,8/18/21,2-E,2,Dandelion + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + H
+42,lab.p1.sample.42,lab-p1-sample-42,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.185,NA,8/18/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+43,lab.p1.sample.43,lab-p1-sample-43,B. impatiens,Hawthorn,1,B. impatiens,FALSE,3,0.246,NA,8/18/21,1-C,1,Hawthorn,NA,NA,"callow, 10 ul of feces",callow,H
+44,lab.p1.sample.44,lab-p1-sample-44,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.236,NA,8/19/21,2-F,2,Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,S + H
+45,lab.p1.sample.45,lab-p1-sample-45,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.202,NA,8/19/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 10 ul of feces",callow,D + S + H
+46,lab.p1.sample.46,lab-p1-sample-46,B. impatiens,Dandelion,1,B. impatiens,FALSE,37,0.217,NA,8/19/21,1-A,1,Dandelion,NA,NA,"callow, 10 ul of feces",callow,D
+47,lab.p1.sample.47,lab-p1-sample-47,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,9,0.259,NA,8/23/21,2-D,2,Dandelion + Sumac,NA,NA,"callow, 15 ul of feces",callow,D + S
+48,lab.p1.sample.48,lab-p1-sample-48,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.27,NA,8/23/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 15 ul of feces, ignore the whiteout on the thorax, it was a callow",callow,D + S + H
+49,lab.p1.sample.49,lab-p1-sample-49,B. impatiens,Sumac,1,B. impatiens,FALSE,9,0.281,NA,8/23/21,1-B,1,Sumac,NA,NA,"callow, 15 ul of feces",callow,S
+50,lab.p1.sample.50,lab-p1-sample-50,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,9,0.213,NA,8/23/21,2-E,2,Dandelion + Hawthorn,NA,NA,"callow, 15 ul of feces",callow,D + H
+51,lab.p1.sample.51,lab-p1-sample-51,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.208,NA,8/23/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, 15 ul of feces (same colony but different inoculum batch than the callows)",non-callow,D + S + H
+52,lab.p1.sample.52,lab-p1-sample-52,B. impatiens,Hawthorn,1,B. impatiens,FALSE,9,0.253,NA,8/23/21,1-C,1,Hawthorn,NA,NA,"non-callow, 15 ul of feces (same colony but different inoculum batch than the callows)",non-callow,H
+54,lab.p1.sample.54,lab-p1-sample-54,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.265,NA,8/23/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 15 ul of feces, same inoc batch as 57",callow,D + S + H
+55,lab.p1.sample.55,lab-p1-sample-55,B. impatiens,Dandelion,1,B. impatiens,FALSE,8,0.261,NA,8/23/21,1-A,1,Dandelion,NA,NA,"callow, 15 ul of feces",callow,D
+56,lab.p1.sample.56,lab-p1-sample-56,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,35,0.22,NA,8/23/21,2-D,2,Dandelion + Sumac,NA,NA,"callow, 15 ul of feces, different inoc batch from 58",callow,D + S
+57,lab.p1.sample.57,lab-p1-sample-57,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.258,NA,8/23/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"callow, 15 ul of feces, same inoc batch at 54",callow,D + S + H
+58,lab.p1.sample.58,lab-p1-sample-58,B. impatiens,Sumac,1,B. impatiens,FALSE,35,0.236,NA,8/23/21,1-B,1,Sumac,NA,NA,"callow, 15 ul of feces, different inoc batch from 56",callow,S
+59,lab.p1.sample.59,lab-p1-sample-59,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,37,0.262,NA,8/23/21,2-E,2,Dandelion + Hawthorn,NA,NA,"callow, 15 ul of feces, different inoc batch from 54 and 57",callow,D + H
+61,lab.p1.sample.61,lab-p1-sample-61,B. impatiens,Hawthorn,1,B. impatiens,FALSE,3,0.245,NA,8/24/21,1-C,1,Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,H
+62,lab.p1.sample.62,lab-p1-sample-62,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.238,NA,8/24/21,2-F,2,Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,S + H
+63,lab.p1.sample.63,lab-p1-sample-63,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.237,NA,8/24/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+64,lab.p1.sample.64,lab-p1-sample-64,B. impatiens,Dandelion,1,B. impatiens,FALSE,9,0.217,NA,8/24/21,1-A,1,Dandelion,NA,NA,"non-callow, no feces inoculum",non-callow,D
+65,lab.p1.sample.65,lab-p1-sample-65,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,9,0.266,NA,8/24/21,2-D,2,Dandelion + Sumac,NA,NA,"non-callow, no feces inoculum",non-callow,D + S
+66,lab.p1.sample.66,lab-p1-sample-66,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.273,NA,8/24/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+68,lab.p1.sample.68,lab-p1-sample-68,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,3,0.273,NA,8/24/21,2-E,2,Dandelion + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + H
+69,lab.p1.sample.69,lab-p1-sample-69,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,3,0.23,NA,8/24/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+70,lab.p1.sample.70,lab-p1-sample-70,B. impatiens,Hawthorn,1,B. impatiens,FALSE,37,0.246,NA,8/24/21,1-C,1,Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,H
+71,lab.p1.sample.71,lab-p1-sample-71,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.217,NA,8/24/21,2-F,2,Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,S + H
+72,lab.p1.sample.72,lab-p1-sample-72,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.263,NA,8/24/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+73,lab.p1.sample.73,lab-p1-sample-73,B. impatiens,Dandelion,1,B. impatiens,FALSE,3,0.224,NA,8/25/21,1-A,1,Dandelion,NA,NA,"non-callow, no feces inoculum",non-callow,D
+74,lab.p1.sample.74,lab-p1-sample-74,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,3,0.241,NA,8/25/21,2-D,2,Dandelion + Sumac,NA,NA,"non-callow, no feces inoculum",non-callow,D + S
+75,lab.p1.sample.75,lab-p1-sample-75,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,3,0.248,NA,8/25/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+76,lab.p1.sample.76,lab-p1-sample-76,B. impatiens,Sumac,1,B. impatiens,FALSE,8,0.279,NA,8/25/21,1-B,1,Sumac,NA,NA,"non-callow, no feces inoculum",non-callow,S
+77,lab.p1.sample.77,lab-p1-sample-77,B. impatiens,Dandelion + Hawthorn,1,B. impatiens,FALSE,8,0.242,NA,8/25/21,2-E,2,Dandelion + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + H
+78,lab.p1.sample.78,lab-p1-sample-78,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.226,NA,8/25/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+79,lab.p1.sample.79,lab-p1-sample-79,B. impatiens,Hawthorn,1,B. impatiens,FALSE,9,0.256,NA,8/25/21,1-C,1,Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,H
+80,lab.p1.sample.80,lab-p1-sample-80,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.246,NA,8/25/21,2-F,2,Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,S + H
+81,lab.p1.sample.81,lab-p1-sample-81,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,9,0.226,NA,8/25/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+82,lab.p1.sample.82,lab-p1-sample-82,B. impatiens,Dandelion,1,B. impatiens,FALSE,37,0.256,NA,8/25/21,1-A,1,Dandelion,NA,NA,"non-callow, no feces inoculum",non-callow,D
+83,lab.p1.sample.83,lab-p1-sample-83,B. impatiens,Dandelion + Sumac,1,B. impatiens,FALSE,37,0.276,NA,8/25/21,2-D,2,Dandelion + Sumac,NA,NA,"non-callow, no feces inoculum",non-callow,D + S
+84,lab.p1.sample.84,lab-p1-sample-84,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,37,0.264,NA,8/25/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+85,lab.p1.sample.85,lab-p1-sample-85,B. impatiens,Sumac,1,B. impatiens,FALSE,3,0.255,NA,8/26/21,1-B,1,Sumac,NA,NA,"non-callow, no feces inoculum",non-callow,S
+87,lab.p1.sample.87,lab-p1-sample-87,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,3,0.238,NA,8/26/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+88,lab.p1.sample.88,lab-p1-sample-88,B. impatiens,Hawthorn,1,B. impatiens,FALSE,8,0.247,NA,8/26/21,1-C,1,Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,H
+89,lab.p1.sample.89,lab-p1-sample-89,B. impatiens,Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.23,NA,8/26/21,2-F,2,Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,S + H
+90,lab.p1.sample.90,lab-p1-sample-90,B. impatiens,Dandelion + Sumac + Hawthorn,1,B. impatiens,FALSE,8,0.232,NA,8/26/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,"non-callow, no feces inoculum",non-callow,D + S + H
+91,lab.p1.sample.91,lab-p1-sample-91,M. rotundata,Dandelion,1,M. rotundata,FALSE,NA,0.141,NA,9/14/21,1-A,1,Dandelion,NA,NA,starved in micro,NA,D
+93,lab.p1.sample.93,lab-p1-sample-93,M. rotundata,Dandelion + Sumac + Hawthorn,1,M. rotundata,FALSE,NA,0.144,NA,9/14/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+94,lab.p1.sample.94,lab-p1-sample-94,M. rotundata,Sumac,1,M. rotundata,FALSE,NA,0.141,NA,9/14/21,1-B,1,Sumac,NA,NA,starved in micro,NA,S
+95,lab.p1.sample.95,lab-p1-sample-95,M. rotundata,Dandelion + Hawthorn,1,M. rotundata,FALSE,NA,0.148,NA,9/14/21,2-E,2,Dandelion + Hawthorn,NA,NA,starved in micro,NA,D + H
+96,lab.p1.sample.96,lab-p1-sample-96,M. rotundata,Dandelion + Sumac + Hawthorn,1,M. rotundata,FALSE,NA,0.158,NA,9/14/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+97,lab.p1.sample.97,lab-p1-sample-97,M. rotundata,Hawthorn,1,M. rotundata,FALSE,NA,0.141,NA,9/14/21,1-C,1,Hawthorn,NA,NA,starved in micro,NA,H
+98,lab.p1.sample.98,lab-p1-sample-98,M. rotundata,Sumac + Hawthorn,1,M. rotundata,FALSE,NA,0.121,NA,9/14/21,2-F,2,Sumac + Hawthorn,NA,NA,starved in micro,NA,S + H
+99,lab.p3.sample.99,lab-p3-sample-99,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.127,NA,9/14/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+100,lab.p3.sample.100,lab-p3-sample-100,M. rotundata,Dandelion,3,M. rotundata,FALSE,NA,0.141,NA,9/14/21,1-A,1,Dandelion,NA,NA,starved in micro,NA,D
+101,lab.p3.sample.101,lab-p3-sample-101,M. rotundata,Dandelion + Sumac,3,M. rotundata,FALSE,NA,0.152,NA,9/14/21,2-D,2,Dandelion + Sumac,NA,NA,starved in micro,NA,D + S
+103,lab.p3.sample.103,lab-p3-sample-103,M. rotundata,Sumac,3,M. rotundata,FALSE,NA,0.144,NA,9/15/21,1-B,1,Sumac,NA,NA,starved in micro,NA,S
+104,lab.p3.sample.104,lab-p3-sample-104,M. rotundata,Dandelion + Hawthorn,3,M. rotundata,FALSE,NA,0.141,NA,9/15/21,2-E,2,Dandelion + Hawthorn,NA,NA,starved in micro,NA,D + H
+105,lab.p3.sample.105,lab-p3-sample-105,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,NA,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+106,lab.p3.sample.106,lab-p3-sample-106,M. rotundata,Hawthorn,3,M. rotundata,FALSE,NA,0.143,NA,9/15/21,1-C,1,Hawthorn,NA,NA,starved in micro,NA,H
+107,lab.p3.sample.107,lab-p3-sample-107,M. rotundata,Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.158,NA,9/15/21,2-F,2,Sumac + Hawthorn,NA,NA,starved in micro,NA,S + H
+108,lab.p3.sample.108,lab-p3-sample-108,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.139,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+109,lab.p3.sample.109,lab-p3-sample-109,M. rotundata,Dandelion,3,M. rotundata,FALSE,NA,0.152,NA,9/15/21,1-A,1,Dandelion,NA,NA,starved in micro,NA,D
+111,lab.p3.sample.111,lab-p3-sample-111,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.151,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+112,lab.p3.sample.112,lab-p3-sample-112,M. rotundata,Sumac,3,M. rotundata,FALSE,NA,0.139,NA,9/15/21,1-B,1,Sumac,NA,NA,starved in micro; mold on wick 9/20,NA,S
+113,lab.p3.sample.113,lab-p3-sample-113,M. rotundata,Dandelion + Hawthorn,3,M. rotundata,FALSE,NA,0.149,NA,9/15/21,2-E,2,Dandelion + Hawthorn,NA,NA,starved in micro,NA,D + H
+114,lab.p3.sample.114,lab-p3-sample-114,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.136,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+115,lab.p3.sample.115,lab-p3-sample-115,M. rotundata,Hawthorn,3,M. rotundata,FALSE,NA,0.153,NA,9/15/21,1-C,1,Hawthorn,NA,NA,starved in micro,NA,H
+116,lab.p3.sample.116,lab-p3-sample-116,M. rotundata,Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.148,NA,9/15/21,2-F,2,Sumac + Hawthorn,NA,NA,starved in micro,NA,S + H
+117,lab.p2.sample.117,lab-p2-sample-117,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.144,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+118,lab.p2.sample.118,lab-p2-sample-118,M. rotundata,Dandelion,2,M. rotundata,FALSE,NA,0.149,NA,9/15/21,1-A,1,Dandelion,NA,NA,starved in micro,NA,D
+119,lab.p2.sample.119,lab-p2-sample-119,M. rotundata,Dandelion + Sumac,2,M. rotundata,FALSE,NA,0.142,NA,9/15/21,2-D,2,Dandelion + Sumac,NA,NA,starved in micro,NA,D + S
+120,lab.p2.sample.120,lab-p2-sample-120,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.135,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,starved in micro,NA,D + S + H
+121,lab.p2.sample.121,lab-p2-sample-121,M. rotundata,Sumac,2,M. rotundata,FALSE,NA,0.152,NA,9/15/21,1-B,1,Sumac,NA,NA,taken straight from block net,NA,S
+123,lab.p2.sample.123,lab-p2-sample-123,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.139,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,taken straight from block net,NA,D + S + H
+124,lab.p2.sample.124,lab-p2-sample-124,M. rotundata,Hawthorn,2,M. rotundata,FALSE,NA,0.143,NA,9/15/21,1-C,1,Hawthorn,NA,NA,taken straight from block net,NA,H
+125,lab.p2.sample.125,lab-p2-sample-125,M. rotundata,Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.148,NA,9/15/21,2-F,2,Sumac + Hawthorn,NA,NA,taken straight from block net,NA,S + H
+126,lab.p3.sample.126,lab-p3-sample-126,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.139,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,taken straight from block net,NA,D + S + H
+127,lab.p3.sample.127,lab-p3-sample-127,M. rotundata,Dandelion,3,M. rotundata,FALSE,NA,0.151,NA,9/15/21,1-A,1,Dandelion,NA,NA,taken straight from block net,NA,D
+128,lab.p3.sample.128,lab-p3-sample-128,M. rotundata,Dandelion + Sumac,3,M. rotundata,FALSE,NA,0.145,NA,9/15/21,2-D,2,Dandelion + Sumac,NA,NA,taken straight from block net,NA,D + S
+129,lab.p3.sample.129,lab-p3-sample-129,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.145,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,taken straight from block net,NA,D + S + H
+130,lab.p3.sample.130,lab-p3-sample-130,M. rotundata,Sumac,3,M. rotundata,FALSE,NA,0.149,NA,9/15/21,1-B,1,Sumac,NA,NA,taken straight from block net,NA,S
+131,lab.p3.sample.131,lab-p3-sample-131,M. rotundata,Dandelion + Hawthorn,3,M. rotundata,FALSE,NA,0.141,NA,9/15/21,2-E,2,Dandelion + Hawthorn,NA,NA,taken straight from block net,NA,D + H
+132,lab.p3.sample.132,lab-p3-sample-132,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.158,NA,9/15/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,taken straight from block net,NA,D + S + H
+133,lab.p3.sample.133,lab-p3-sample-133,M. rotundata,Hawthorn,3,M. rotundata,FALSE,NA,0.142,NA,9/15/21,1-C,1,Hawthorn,NA,NA,taken straight from block net,NA,H
+134,lab.p2.sample.134,lab-p2-sample-134,M. rotundata,Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.146,NA,9/15/21,2-F,2,Sumac + Hawthorn,NA,NA,taken straight from block net,NA,S + H
+135,lab.p2.sample.135,lab-p2-sample-135,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.152,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+136,lab.p2.sample.136,lab-p2-sample-136,M. rotundata,Dandelion,2,M. rotundata,FALSE,NA,0.148,NA,9/16/21,1-A,1,Dandelion,NA,NA,NA,NA,D
+137,lab.p2.sample.137,lab-p2-sample-137,M. rotundata,Dandelion + Sumac,2,M. rotundata,FALSE,NA,0.157,NA,9/16/21,2-D,2,Dandelion + Sumac,NA,NA,NA,NA,D + S
+138,lab.p2.sample.138,lab-p2-sample-138,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.14,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+139,lab.p2.sample.139,lab-p2-sample-139,M. rotundata,Sumac,2,M. rotundata,FALSE,NA,0.144,NA,9/16/21,1-B,1,Sumac,NA,NA,NA,NA,S
+140,lab.p2.sample.140,lab-p2-sample-140,M. rotundata,Dandelion + Hawthorn,2,M. rotundata,FALSE,NA,0.135,NA,9/16/21,2-E,2,Dandelion + Hawthorn,NA,NA,NA,NA,D + H
+141,lab.p2.sample.141,lab-p2-sample-141,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.139,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+142,lab.p3.sample.142,lab-p3-sample-142,M. rotundata,Hawthorn,3,M. rotundata,FALSE,NA,0.145,NA,9/16/21,1-C,1,Hawthorn,NA,NA,NA,NA,H
+143,lab.p3.sample.143,lab-p3-sample-143,M. rotundata,Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.131,NA,9/16/21,2-F,2,Sumac + Hawthorn,NA,NA,NA,NA,S + H
+144,lab.p3.sample.144,lab-p3-sample-144,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.137,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+145,lab.p3.sample.145,lab-p3-sample-145,M. rotundata,Dandelion,3,M. rotundata,FALSE,NA,0.14,NA,9/16/21,1-A,1,Dandelion,NA,NA,NA,NA,D
+146,lab.p3.sample.146,lab-p3-sample-146,M. rotundata,Dandelion + Sumac,3,M. rotundata,FALSE,NA,0.15,NA,9/16/21,2-D,2,Dandelion + Sumac,NA,NA,NA,NA,D + S
+147,lab.p3.sample.147,lab-p3-sample-147,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.142,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+148,lab.p3.sample.148,lab-p3-sample-148,M. rotundata,Sumac,3,M. rotundata,FALSE,NA,0.142,NA,9/16/21,1-B,1,Sumac,NA,NA,NA,NA,S
+150,lab.p3.sample.150,lab-p3-sample-150,M. rotundata,Dandelion + Sumac + Hawthorn,3,M. rotundata,FALSE,NA,0.141,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+151,lab.p2.sample.151,lab-p2-sample-151,M. rotundata,Hawthorn,2,M. rotundata,FALSE,NA,0.144,NA,9/16/21,1-C,1,Hawthorn,NA,NA,NA,NA,H
+152,lab.p2.sample.152,lab-p2-sample-152,M. rotundata,Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.129,NA,9/16/21,2-F,2,Sumac + Hawthorn,NA,NA,NA,NA,S + H
+153,lab.p2.sample.153,lab-p2-sample-153,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.14,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+154,lab.p2.sample.154,lab-p2-sample-154,M. rotundata,Dandelion,2,M. rotundata,FALSE,NA,0.149,NA,9/16/21,1-A,1,Dandelion,NA,NA,NA,NA,D
+155,lab.p2.sample.155,lab-p2-sample-155,M. rotundata,Dandelion + Sumac,2,M. rotundata,FALSE,NA,0.129,NA,9/16/21,2-D,2,Dandelion + Sumac,NA,NA,NA,NA,D + S
+156,lab.p2.sample.156,lab-p2-sample-156,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.143,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+157,lab.p2.sample.157,lab-p2-sample-157,M. rotundata,Sumac,2,M. rotundata,FALSE,NA,0.147,NA,9/16/21,1-B,1,Sumac,NA,NA,NA,NA,S
+159,lab.p2.sample.159,lab-p2-sample-159,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.144,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+160,lab.p2.sample.160,lab-p2-sample-160,M. rotundata,Hawthorn,2,M. rotundata,FALSE,NA,0.135,NA,9/16/21,1-C,1,Hawthorn,NA,NA,NA,NA,H
+161,lab.p2.sample.161,lab-p2-sample-161,M. rotundata,Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.138,NA,9/16/21,2-F,2,Sumac + Hawthorn,NA,NA,NA,NA,S + H
+162,lab.p2.sample.162,lab-p2-sample-162,M. rotundata,Dandelion + Sumac + Hawthorn,2,M. rotundata,FALSE,NA,0.14,NA,9/16/21,3-G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,D + S + H
+163,lab.p2.sample.163,lab-p2-sample-163,M. rotundata,Dandelion,2,M. rotundata,FALSE,NA,0.135,NA,9/16/21,1-A,1,Dandelion,NA,NA,NA,NA,D
+164,lab.p2.sample.164,lab-p2-sample-164,M. rotundata,Dandelion + Sumac,2,M. rotundata,FALSE,NA,0.152,NA,9/16/21,2-D,2,Dandelion + Sumac,NA,NA,NA,NA,D + S
