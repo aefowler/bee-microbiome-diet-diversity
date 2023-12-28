@@ -1,0 +1,136 @@
+﻿Bee_ID,Colony,Date_start,Treat,Treat_no_spp,Treat_composition,Dead,Death_date,Days_til_dead,Wing,Notes,prelim_perc_area_not_using,prelim_perc_area/2,Implant_photo,perc_area,perc_area_halved,perc_area_halved_decimal
+1,AF-4,11/29/21,A,1,Dandelion,NA,NA,NA,NA,escaped,,NA,n,NA,NA,NA
+2,AF-4,11/29/21,D,2,Dandelion + Sumac,1,12/2/21,3,NA,,,NA,n,NA,NA,NA
+3,AF-4,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.219,,,NA,y,6.278,3.139,0.03139
+4,AF-4,11/29/21,B,1,Sumac,0,12/6/21,7,0.212,,,NA,y,1.252,0.626,0.00626
+5,AF-4,11/29/21,E,2,Dandelion + Hawthorn,0,12/6/21,7,0.25,no melanization at all,,NA,y,0.001,0.0005,0.000005
+6,AF-4,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.224,,54.824,27.412,y,45.179,22.5895,0.225895
+7,AF-4,11/29/21,C,1,Hawthorn,0,12/6/21,7,0.23,lost implant,NA,NA,n,NA,NA,NA
+8,AF-4,11/29/21,F,2,Sumac + Hawthorn,0,12/6/21,7,0.255,lost impant,,NA,n,NA,NA,NA
+9,AF-4,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.253,,,NA,y,36.671,18.3355,0.183355
+10,AF-5,11/29/21,A,1,Dandelion,0,12/6/21,7,0.235,,,NA,y,57.109,28.5545,0.285545
+11,AF-5,11/29/21,D,2,Dandelion + Sumac,0,12/6/21,7,0.252,,,NA,y,10.372,5.186,0.05186
+12,AF-5,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.207,lots of melanin around implant in abdomen,,NA,y,44.201,22.1005,0.221005
+13,AF-5,11/29/21,B,1,Sumac,0,12/6/21,7,0.231,,,NA,y,35.222,17.611,0.17611
+14,AF-5,11/29/21,E,2,Dandelion + Hawthorn,0,12/6/21,7,0.226,,51.845,25.9225,y,66.911,33.4555,0.334555
+15,AF-5,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.245,very sluggish after 2 hr recovery. lost implant,,NA,n,NA,NA,NA
+16,AF-5,11/29/21,C,1,Hawthorn,0,12/6/21,7,0.215,woke up between poke and implant; had to refreeze,,NA,y,23.735,11.8675,0.118675
+17,AF-5,11/29/21,F,2,Sumac + Hawthorn,0,12/6/21,7,0.216,,27.412,13.706,y,51.383,25.6915,0.256915
+18,AF-5,11/29/21,G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,escaped,,NA,n,NA,NA,NA
+19,AF-6,11/29/21,A,1,Dandelion,1,12/1/21,2,NA,,,NA,n,NA,NA,NA
+20,AF-6,11/29/21,D,2,Dandelion + Sumac,NA,NA,NA,NA,escaped,,NA,n,NA,NA,NA
+21,AF-6,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.246,,,NA,y,0.001,0.0005,0.000005
+22,AF-6,11/29/21,B,1,Sumac,0,12/6/21,7,0.254,,,NA,y,33.159,16.5795,0.165795
+23,AF-6,11/29/21,E,2,Dandelion + Hawthorn,0,12/6/21,7,0.225,,,NA,y,30.362,15.181,0.15181
+24,AF-6,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.26,sluggish after 2 hr recovery,,NA,y,19.907,9.9535,0.099535
+25,AF-6,11/29/21,C,1,Hawthorn,0,12/6/21,7,0.226,,48.033,24.0165,y,51.504,25.752,0.25752
+26,AF-6,11/29/21,F,2,Sumac + Hawthorn,0,12/6/21,7,0.222,,,NA,y,47.33,23.665,0.23665
+27,AF-6,11/29/21,G,3,Dandelion + Sumac + Hawthorn,0,12/6/21,7,0.228,,,NA,y,3.4,1.7,0.017
+28,AF-4,12/1/21,A,1,Dandelion,0,12/8/21,7,0.207,,,NA,y,2.242,1.121,0.01121
+29,AF-4,12/1/21,D,2,Dandelion + Sumac,0,12/8/21,7,0.205,,,NA,y,26.218,13.109,0.13109
+30,AF-4,12/1/21,G,3,Dandelion + Sumac + Hawthorn,0,12/8/21,7,0.211,,,NA,y,0.001,0.0005,0.000005
+31,AF-4,12/1/21,B,1,Sumac,0,12/8/21,7,0.231,,,NA,y,6.756,3.378,0.03378
+32,AF-4,12/1/21,E,2,Dandelion + Hawthorn,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+33,AF-4,12/1/21,G,3,Dandelion + Sumac + Hawthorn,1,12/5/21,4,NA,,,NA,n,NA,NA,NA
+34,AF-4,12/1/21,C,1,Hawthorn,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+35,AF-4,12/1/21,F,2,Sumac + Hawthorn,NA,NA,NA,NA,escaped,,NA,n,NA,NA,NA
+36,AF-4,12/1/21,G,3,Dandelion + Sumac + Hawthorn,1,12/7/21,6,NA,,,NA,n,NA,NA,NA
+37,AF-5,12/1/21,A,1,Dandelion,0,12/8/21,7,0.234,,6.392,3.196,y,13.225,6.6125,0.066125
+38,AF-5,12/1/21,D,2,Dandelion + Sumac,NA,NA,NA,NA,escaped,,NA,n,NA,NA,NA
+39,AF-5,12/1/21,G,3,Dandelion + Sumac + Hawthorn,0,12/8/21,7,0.267,,,NA,y,14.018,7.009,0.07009
+40,AF-5,12/1/21,B,1,Sumac,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+41,AF-5,12/1/21,E,2,Dandelion + Hawthorn,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+42,AF-5,12/1/21,G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,escaped,,NA,n,NA,NA,NA
+43,AF-5,12/1/21,C,1,Hawthorn,0,12/8/21,7,0.237,,,NA,y,11.796,5.898,0.05898
+44,AF-5,12/1/21,F,2,Sumac + Hawthorn,0,12/8/21,7,0.229,,6.852,3.426,y,12.674,6.337,0.06337
+45,AF-5,12/1/21,G,3,Dandelion + Sumac + Hawthorn,0,12/8/21,7,0.245,,15.784,7.892,y,19.283,9.6415,0.096415
+46,AF-6,12/1/21,A,1,Dandelion,0,12/8/21,7,NA,,,NA,y,1.003,0.5015,0.005015
+47,AF-6,12/1/21,D,2,Dandelion + Sumac,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+48,AF-6,12/1/21,G,3,Dandelion + Sumac + Hawthorn,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+49,AF-6,12/1/21,B,1,Sumac,0,12/8/21,7,0.228,,,NA,y,0.001,0.0005,0.000005
+50,AF-6,12/1/21,E,2,Dandelion + Hawthorn,0,12/8/21,7,0.263,lots of melanin around in abdomen,,NA,y,3.733,1.8665,0.018665
+51,AF-6,12/1/21,G,3,Dandelion + Sumac + Hawthorn,1,12/2/21,1,NA,,,NA,n,NA,NA,NA
+52,AF-6,12/1/21,C,1,Hawthorn,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+53,AF-6,12/1/21,F,2,Sumac + Hawthorn,0,12/8/21,7,0.208,,,NA,y,17.831,8.9155,0.089155
+54,AF-6,12/1/21,G,3,Dandelion + Sumac + Hawthorn,0,12/8/21,7,0.235,,,NA,y,16.014,8.007,0.08007
+55,AF-4,12/9/21,A,1,Dandelion,0,12/16/21,7,0.196,,,NA,y,4.052,2.026,0.02026
+56,AF-4,12/9/21,D,2,Dandelion + Sumac,0,12/16/21,7,0.295,,,NA,y,5.711,2.8555,0.028555
+57,AF-4,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.254,melanization on gut tissue near implant,,NA,y,0.001,0.0005,0.000005
+58,AF-4,12/9/21,B,1,Sumac,0,12/16/21,7,0.267,,18.221,9.1105,y,40.362,20.181,0.20181
+59,AF-4,12/9/21,E,2,Dandelion + Hawthorn,0,12/16/21,7,0.269,,2.303,1.1515,y,5.729,2.8645,0.028645
+60,AF-4,12/9/21,G,3,Dandelion + Sumac + Hawthorn,1,12/11/21,2,NA,,,NA,n,NA,NA,NA
+61,AF-4,12/9/21,C,1,Hawthorn,0,12/16/21,7,0.259,,,NA,y,4.13,2.065,0.02065
+62,AF-4,12/9/21,F,2,Sumac + Hawthorn,0,12/16/21,7,0.265,,,NA,y,5.001,2.5005,0.025005
+63,AF-4,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.249,,,NA,y,30.82,15.41,0.1541
+64,AF-5,12/9/21,A,1,Dandelion,0,12/16/21,7,0.231,,,NA,y,12.597,6.2985,0.062985
+65,AF-5,12/9/21,D,2,Dandelion + Sumac,0,12/16/21,7,0.233,,,NA,y,12.909,6.4545,0.064545
+66,AF-5,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.262,took 2 encap measurements; this is the average of the two,14.367,7.1835,y,29.544,14.772,0.14772
+67,AF-5,12/9/21,B,1,Sumac,0,12/16/21,7,0.206,,,NA,y,11.356,5.678,0.05678
+68,AF-5,12/9/21,E,2,Dandelion + Hawthorn,0,12/16/21,7,0.217,,,NA,y,23.702,11.851,0.11851
+69,AF-5,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.218,,3.009,1.5045,y,3.511,1.7555,0.017555
+70,AF-5,12/9/21,C,1,Hawthorn,0,12/16/21,7,0.248,,35.752,17.876,y,45.877,22.9385,0.229385
+71,AF-5,12/9/21,F,2,Sumac + Hawthorn,0,12/16/21,7,0.2,,,NA,y,15.102,7.551,0.07551
+72,AF-5,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.218,,,NA,y,2.771,1.3855,0.013855
+73,AF-6,12/9/21,A,1,Dandelion,0,12/16/21,7,0.226,,34.471,17.2355,y,32.467,16.2335,0.162335
+74,AF-6,12/9/21,D,2,Dandelion + Sumac,1,12/15/21,6,NA,,,NA,n,NA,NA,NA
+75,AF-6,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.238,sluggish after 2 hr,1.301,0.6505,y,0.889,0.4445,0.004445
+76,AF-6,12/9/21,B,1,Sumac,0,12/16/21,7,0.255,,,NA,y,23.916,11.958,0.11958
+77,AF-6,12/9/21,E,2,Dandelion + Hawthorn,0,12/16/21,7,0.235,,,NA,y,14.142,7.071,0.07071
+78,AF-6,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.256,,,NA,y,13.864,6.932,0.06932
+79,AF-6,12/9/21,C,1,Hawthorn,0,12/16/21,7,0.238,,,NA,y,19.357,9.6785,0.096785
+80,AF-6,12/9/21,F,2,Sumac + Hawthorn,0,12/16/21,7,0.256,,,NA,y,18.951,9.4755,0.094755
+81,AF-6,12/9/21,G,3,Dandelion + Sumac + Hawthorn,0,12/16/21,7,0.248,,,NA,y,4.638,2.319,0.02319
+82,AF-4,12/10/21,A,1,Dandelion,0,12/17/21,7,0.257,,33.202,16.601,y,49.142,24.571,0.24571
+83,AF-4,12/10/21,D,2,Dandelion + Sumac,0,12/17/21,7,0.235,,3.743,1.8715,y,10.29,5.145,0.05145
+84,AF-4,12/10/21,G,3,Dandelion + Sumac + Hawthorn,1,12/17/21,7,NA,,,NA,n,NA,NA,NA
+85,AF-4,12/10/21,B,1,Sumac,0,12/17/21,7,0.247,,27.572,13.786,y,46.041,23.0205,0.230205
+86,AF-4,12/10/21,E,2,Dandelion + Hawthorn,0,12/17/21,7,0.224,,12.363,6.1815,y,19.815,9.9075,0.099075
+87,AF-4,12/10/21,G,3,Dandelion + Sumac + Hawthorn,1,12/16/21,6,NA,,,NA,n,NA,NA,NA
+88,AF-4,12/10/21,C,1,Hawthorn,0,12/17/21,7,0.257,lost implant,,NA,n,NA,NA,NA
+89,AF-4,12/10/21,F,2,Sumac + Hawthorn,0,12/17/21,7,0.27,,,NA,y,7.777,3.8885,0.038885
+90,AF-4,12/10/21,G,3,Dandelion + Sumac + Hawthorn,1,12/14/21,4,NA,,,NA,n,NA,NA,NA
+91,AF-5,12/10/21,A,1,Dandelion,0,12/17/21,7,0.216,,,NA,y,7.42,3.71,0.0371
+92,AF-5,12/10/21,D,2,Dandelion + Sumac,0,12/17/21,7,0.241,,10.433,5.2165,y,11.385,5.6925,0.056925
+93,AF-5,12/10/21,G,3,Dandelion + Sumac + Hawthorn,0,12/17/21,7,0.222,,35.063,17.5315,y,51.809,25.9045,0.259045
+94,AF-5,12/10/21,B,1,Sumac,0,12/17/21,7,0.227,,67.81,33.905,y,83.592,41.796,0.41796
+95,AF-5,12/10/21,E,2,Dandelion + Hawthorn,NA,NA,NA,NA,escaped,,NA,n,NA,NA,NA
+96,AF-5,12/10/21,G,3,Dandelion + Sumac + Hawthorn,0,12/17/21,7,0.231,,,NA,y,59.286,29.643,0.29643
+97,AF-5,12/10/21,C,1,Hawthorn,0,12/17/21,7,0.201,,8.706,4.353,y,28.753,14.3765,0.143765
+98,AF-5,12/10/21,F,2,Sumac + Hawthorn,0,12/17/21,7,0.227,,,NA,y,39.762,19.881,0.19881
+99,AF-5,12/10/21,G,3,Dandelion + Sumac + Hawthorn,0,12/17/21,7,0.224,,,NA,y,82.266,41.133,0.41133
+100,AF-6,12/10/21,A,1,Dandelion,0,12/17/21,7,0.224,,20.339,10.1695,y,18.56,9.28,0.0928
+101,AF-6,12/10/21,D,2,Dandelion + Sumac,0,12/17/21,7,0.232,,11.628,5.814,y,21.176,10.588,0.10588
+102,AF-6,12/10/21,G,3,Dandelion + Sumac + Hawthorn,0,12/17/21,7,0.253,,41.778,20.889,y,58.838,29.419,0.29419
+103,AF-6,12/10/21,B,1,Sumac,0,12/17/21,7,0.236,,,NA,y,31.092,15.546,0.15546
+104,AF-6,12/10/21,E,2,Dandelion + Hawthorn,0,12/17/21,7,0.247,sluggish after 2 hr,16.879,8.4395,y,43.15,21.575,0.21575
+105,AF-6,12/10/21,G,3,Dandelion + Sumac + Hawthorn,0,12/17/21,7,0.268,,40.687,20.3435,y,69.482,34.741,0.34741
+106,AF-6,12/10/21,C,1,Hawthorn,0,12/17/21,7,0.231,sluggish after 2 hr,33.976,16.988,y,42.017,21.0085,0.210085
+107,AF-6,12/10/21,F,2,Sumac + Hawthorn,0,12/17/21,7,NA,omit - died after 2 hr,,NA,n,NA,NA,NA
+108,AF-6,12/10/21,G,3,Dandelion + Sumac + Hawthorn,0,12/17/21,7,0.2,"couldn't quite get all the colors in the same threshold so did two measurements - one capturing the dark parts and another capturing the light parts, then added the two.",,NA,y,24.577,12.2885,0.122885
+109,AF-4,12/13/21,A,1,Dandelion,1,12/19/21,6,NA,,,NA,n,NA,NA,NA
+110,AF-4,12/13/21,D,2,Dandelion + Sumac,0,12/20/21,7,0.238,,36.942,18.471,y,50.343,25.1715,0.251715
+111,AF-4,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.252,,,NA,y,38.537,19.2685,0.192685
+112,AF-4,12/13/21,B,1,Sumac,0,12/20/21,7,0.255,,1.28,0.64,y,8.324,4.162,0.04162
+113,AF-4,12/13/21,E,2,Dandelion + Hawthorn,0,12/20/21,7,0.24,,,NA,y,2.63,1.315,0.01315
+114,AF-4,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.261,,11.291,5.6455,y,11.882,5.941,0.05941
+115,AF-4,12/13/21,C,1,Hawthorn,1,12/15/21,2,NA,,,NA,n,NA,NA,NA
+116,AF-4,12/13/21,F,2,Sumac + Hawthorn,0,12/20/21,7,0.226,,0.129,0.0645,y,0.001,0.0005,0.000005
+117,AF-4,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.224,,0.001,0.0005,y,3.253,1.6265,0.016265
+118,AF-5,12/13/21,A,1,Dandelion,0,12/20/21,7,0.202,,,NA,y,10.835,5.4175,0.054175
+119,AF-5,12/13/21,D,2,Dandelion + Sumac,0,12/20/21,7,0.228,,19.996,9.998,y,32.734,16.367,0.16367
+120,AF-5,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.226,,21.611,10.8055,y,26.083,13.0415,0.130415
+121,AF-5,12/13/21,B,1,Sumac,NA,NA,NA,NA,omit - died after implant,,NA,n,NA,NA,NA
+122,AF-5,12/13/21,E,2,Dandelion + Hawthorn,0,12/20/21,7,0.248,lots of melanin around in abdomen,,NA,y,46.748,23.374,0.23374
+123,AF-5,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.231,,11.436,5.718,y,10.887,5.4435,0.054435
+124,AF-5,12/13/21,C,1,Hawthorn,0,12/20/21,7,0.235,Found the implant; it was totally clear; but then lost it when trying to transfer to slide,,NA,n,NA,NA,NA
+125,AF-5,12/13/21,F,2,Sumac + Hawthorn,0,12/20/21,7,0.243,,8.321,4.1605,y,23.314,11.657,0.11657
+126,AF-5,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.235,,,NA,y,22.556,11.278,0.11278
+127,AF-6,12/13/21,A,1,Dandelion,0,12/20/21,7,0.227,,9.858,4.929,y,13.412,6.706,0.06706
+128,AF-6,12/13/21,D,2,Dandelion + Sumac,0,12/20/21,7,0.24,,6.537,3.2685,y,6.643,3.3215,0.033215
+129,AF-6,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.258,,2.342,1.171,y,9.4,4.7,0.047
+130,AF-6,12/13/21,B,1,Sumac,0,12/20/21,7,0.238,,0.127,0.0635,y,0.503,0.2515,0.002515
+131,AF-6,12/13/21,E,2,Dandelion + Hawthorn,0,12/20/21,7,0.268,,0.39,0.195,y,1.104,0.552,0.00552
+132,AF-6,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.247,,0.578,0.289,y,0.819,0.4095,0.004095
+133,AF-6,12/13/21,C,1,Hawthorn,0,12/20/21,7,0.265,,,NA,y,10.656,5.328,0.05328
+134,AF-6,12/13/21,F,2,Sumac + Hawthorn,0,12/20/21,7,0.281,,0.124,0.062,y,0.001,0.0005,0.000005
+135,AF-6,12/13/21,G,3,Dandelion + Sumac + Hawthorn,0,12/20/21,7,0.189,,4.124,2.062,y,11.187,5.5935,0.055935
