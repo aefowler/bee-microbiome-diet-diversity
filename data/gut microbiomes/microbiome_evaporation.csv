@@ -1,0 +1,34 @@
+﻿Evap_ID,Treat,Initial_date,initial_pollen_wt,initial_sucrose_wt,Final_date,final_pollen_wt,final_sucrose_wt,net_pollen,net_sucrose,Treat_comp,Species
+e1,A,8/11/21,0.2717,25,8/13/21,0.2621,23.86,0.0096,1.14,Dandelion,B. impatiens
+e10,C,8/16/21,0.2764,22.84,8/18/21,0.242,21.56,0.0344,1.28,Hawthorn,B. impatiens
+e11,F,8/16/21,0.2605,23.6,8/18/21,0.2508,21.75,0.0097,1.85,Sumac + Hawthorn,B. impatiens
+e12,A,8/16/21,0.2621,23.07,8/18/21,0.2571,21.394,0.005,1.676,Dandelion,B. impatiens
+e13,A,8/18/21,0.2627,22.88,8/20/21,0.2561,21.8,0.0066,1.08,Dandelion,B. impatiens
+e14,B,8/18/21,0.2777,22.04,8/20/21,0.2565,20.81,0.0212,1.23,Sumac,B. impatiens
+e15,C,8/18/21,0.2688,23.05,8/20/21,0.2467,21.71,0.0221,1.34,Hawthorn,B. impatiens
+e16,D,8/18/21,0.2658,23.34,8/20/21,0.2547,21.38,0.0111,1.96,Dandelion + Sumac,B. impatiens
+e17,E,8/18/21,0.2605,24.25,8/20/21,0.2494,23.12,0.0111,1.13,Dandelion + Hawthorn,B. impatiens
+e18,F,8/18/21,0.2653,23.36,8/20/21,0.2457,22.36,0.0196,1,Sumac + Hawthorn,B. impatiens
+e19,G,8/18/21,0.2655,23.11,8/20/21,0.257,21.89,0.0085,1.22,Dandelion + Sumac + Hawthorn,B. impatiens
+e2,D,8/11/21,0.3017,23.33,8/13/21,0.2901,22.29,0.0116,1.04,Dandelion + Sumac,B. impatiens
+e20,A,9/14/21,0.2535,17.96,9/16/21,0.2539,17.36,-0.0004,0.6,Dandelion,M. rotundata
+e21,B,9/14/21,0.2185,16.15,9/16/21,0.2168,15.57,0.0017,0.58,Sumac,M. rotundata
+e22,C,9/14/21,0.2099,19.97,9/16/21,0.2089,19.38,0.001,0.59,Hawthorn,M. rotundata
+e23,D,9/14/21,0.2349,15.34,9/16/21,0.2351,14.68,-0.0002,0.66,Dandelion + Sumac,M. rotundata
+e24,E,9/14/21,0.2333,14.33,9/16/21,0.2343,13.76,-0.001,0.57,Dandelion + Hawthorn,M. rotundata
+e25,F,9/14/21,0.2529,17.32,9/16/21,0.2519,16.78,0.001,0.54,Sumac + Hawthorn,M. rotundata
+e26,G,9/14/21,0.2213,17.72,9/16/21,0.2164,17.08,0.0049,0.64,Dandelion + Sumac + Hawthorn,M. rotundata
+e27,A,9/16/21,0.2717,17.19,9/18/21,0.2746,16.36,-0.0029,0.83,Dandelion,M. rotundata
+e28,B,9/16/21,0.2866,18.83,9/18/21,0.2858,18.36,0.0008,0.47,Sumac,M. rotundata
+e29,C,9/16/21,0.2815,18.45,9/18/21,0.2672,17.34,0.0143,1.11,Hawthorn,M. rotundata
+e3,G,8/11/21,0.273,29.1,8/13/21,0.2485,28.01,0.0245,1.09,Dandelion + Sumac + Hawthorn,B. impatiens
+e30,D,9/16/21,0.28,19.35,9/18/21,0.2751,18.33,0.0049,1.02,Dandelion + Sumac,M. rotundata
+e31,E,9/16/21,0.2425,19.06,9/18/21,0.2397,18.31,0.0028,0.75,Dandelion + Hawthorn,M. rotundata
+e32,F,9/16/21,0.2869,15.44,9/18/21,0.2746,14.4,0.0123,1.04,Sumac + Hawthorn,M. rotundata
+e33,G,9/16/21,0.2588,15.48,9/18/21,0.2574,14.77,0.0014,0.71,Dandelion + Sumac + Hawthorn,M. rotundata
+e4,B,8/11/21,0.2725,22.22,8/13/21,0.2471,21.09,0.0254,1.13,Sumac,B. impatiens
+e5,E,8/11/21,0.2822,28.01,8/13/21,0.2601,26.87,0.0221,1.14,Dandelion + Hawthorn,B. impatiens
+e6,D,8/16/21,0.2834,23.9,8/18/21,0.2413,22.71,0.0421,1.19,Dandelion + Sumac,B. impatiens
+e7,G,8/16/21,0.2528,23.3,8/18/21,0.2507,20.79,0.0021,2.51,Dandelion + Sumac + Hawthorn,B. impatiens
+e8,B,8/16/21,0.268,23.34,8/18/21,0.2488,22.04,0.0192,1.3,Sumac,B. impatiens
+e9,E,8/16/21,0.2524,21.22,8/18/21,0.2296,20.05,0.0228,1.17,Dandelion + Hawthorn,B. impatiens
