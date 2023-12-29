@@ -1,0 +1,69 @@
+sample-id	Bee_ID	index	host	diet	plate	Species	Sex	Colony	Wing	Date_removed_from_fridge	Emerge_start_date	Treatment	No_pollen_spp	Pollen_comp	Dead	Death_date	Notes	Age	diet_initials
+lab-p1-sample-91	91	lab.p1.sample.91	M. rotundata	Dandelion	1	M. rotundata	FALSE	NA	0.141	NA	9/14/21	1-A	1	Dandelion	NA	NA	starved in micro	NA	D
+lab-p1-sample-93	93	lab.p1.sample.93	M. rotundata	Dandelion + Sumac + Hawthorn	1	M. rotundata	FALSE	NA	0.144	NA	9/14/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p1-sample-94	94	lab.p1.sample.94	M. rotundata	Sumac	1	M. rotundata	FALSE	NA	0.141	NA	9/14/21	1-B	1	Sumac	NA	NA	starved in micro	NA	S
+lab-p1-sample-95	95	lab.p1.sample.95	M. rotundata	Dandelion + Hawthorn	1	M. rotundata	FALSE	NA	0.148	NA	9/14/21	2-E	2	Dandelion + Hawthorn	NA	NA	starved in micro	NA	D + H
+lab-p1-sample-96	96	lab.p1.sample.96	M. rotundata	Dandelion + Sumac + Hawthorn	1	M. rotundata	FALSE	NA	0.158	NA	9/14/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p1-sample-97	97	lab.p1.sample.97	M. rotundata	Hawthorn	1	M. rotundata	FALSE	NA	0.141	NA	9/14/21	1-C	1	Hawthorn	NA	NA	starved in micro	NA	H
+lab-p1-sample-98	98	lab.p1.sample.98	M. rotundata	Sumac + Hawthorn	1	M. rotundata	FALSE	NA	0.121	NA	9/14/21	2-F	2	Sumac + Hawthorn	NA	NA	starved in micro	NA	S + H
+lab-p3-sample-99	99	lab.p3.sample.99	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.127	NA	9/14/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p3-sample-100	100	lab.p3.sample.100	M. rotundata	Dandelion	3	M. rotundata	FALSE	NA	0.141	NA	9/14/21	1-A	1	Dandelion	NA	NA	starved in micro	NA	D
+lab-p3-sample-101	101	lab.p3.sample.101	M. rotundata	Dandelion + Sumac	3	M. rotundata	FALSE	NA	0.152	NA	9/14/21	2-D	2	Dandelion + Sumac	NA	NA	starved in micro	NA	D + S
+lab-p3-sample-103	103	lab.p3.sample.103	M. rotundata	Sumac	3	M. rotundata	FALSE	NA	0.144	NA	9/15/21	1-B	1	Sumac	NA	NA	starved in micro	NA	S
+lab-p3-sample-104	104	lab.p3.sample.104	M. rotundata	Dandelion + Hawthorn	3	M. rotundata	FALSE	NA	0.141	NA	9/15/21	2-E	2	Dandelion + Hawthorn	NA	NA	starved in micro	NA	D + H
+lab-p3-sample-105	105	lab.p3.sample.105	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	NA	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p3-sample-106	106	lab.p3.sample.106	M. rotundata	Hawthorn	3	M. rotundata	FALSE	NA	0.143	NA	9/15/21	1-C	1	Hawthorn	NA	NA	starved in micro	NA	H
+lab-p3-sample-107	107	lab.p3.sample.107	M. rotundata	Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.158	NA	9/15/21	2-F	2	Sumac + Hawthorn	NA	NA	starved in micro	NA	S + H
+lab-p3-sample-108	108	lab.p3.sample.108	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.139	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p3-sample-109	109	lab.p3.sample.109	M. rotundata	Dandelion	3	M. rotundata	FALSE	NA	0.152	NA	9/15/21	1-A	1	Dandelion	NA	NA	starved in micro	NA	D
+lab-p3-sample-111	111	lab.p3.sample.111	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.151	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p3-sample-112	112	lab.p3.sample.112	M. rotundata	Sumac	3	M. rotundata	FALSE	NA	0.139	NA	9/15/21	1-B	1	Sumac	NA	NA	starved in micro; mold on wick 9/20	NA	S
+lab-p3-sample-113	113	lab.p3.sample.113	M. rotundata	Dandelion + Hawthorn	3	M. rotundata	FALSE	NA	0.149	NA	9/15/21	2-E	2	Dandelion + Hawthorn	NA	NA	starved in micro	NA	D + H
+lab-p3-sample-114	114	lab.p3.sample.114	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.136	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p3-sample-115	115	lab.p3.sample.115	M. rotundata	Hawthorn	3	M. rotundata	FALSE	NA	0.153	NA	9/15/21	1-C	1	Hawthorn	NA	NA	starved in micro	NA	H
+lab-p3-sample-116	116	lab.p3.sample.116	M. rotundata	Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.148	NA	9/15/21	2-F	2	Sumac + Hawthorn	NA	NA	starved in micro	NA	S + H
+lab-p2-sample-117	117	lab.p2.sample.117	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.144	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p2-sample-118	118	lab.p2.sample.118	M. rotundata	Dandelion	2	M. rotundata	FALSE	NA	0.149	NA	9/15/21	1-A	1	Dandelion	NA	NA	starved in micro	NA	D
+lab-p2-sample-119	119	lab.p2.sample.119	M. rotundata	Dandelion + Sumac	2	M. rotundata	FALSE	NA	0.142	NA	9/15/21	2-D	2	Dandelion + Sumac	NA	NA	starved in micro	NA	D + S
+lab-p2-sample-120	120	lab.p2.sample.120	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.135	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	starved in micro	NA	D + S + H
+lab-p2-sample-121	121	lab.p2.sample.121	M. rotundata	Sumac	2	M. rotundata	FALSE	NA	0.152	NA	9/15/21	1-B	1	Sumac	NA	NA	taken straight from block net	NA	S
+lab-p2-sample-123	123	lab.p2.sample.123	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.139	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	taken straight from block net	NA	D + S + H
+lab-p2-sample-124	124	lab.p2.sample.124	M. rotundata	Hawthorn	2	M. rotundata	FALSE	NA	0.143	NA	9/15/21	1-C	1	Hawthorn	NA	NA	taken straight from block net	NA	H
+lab-p2-sample-125	125	lab.p2.sample.125	M. rotundata	Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.148	NA	9/15/21	2-F	2	Sumac + Hawthorn	NA	NA	taken straight from block net	NA	S + H
+lab-p3-sample-126	126	lab.p3.sample.126	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.139	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	taken straight from block net	NA	D + S + H
+lab-p3-sample-127	127	lab.p3.sample.127	M. rotundata	Dandelion	3	M. rotundata	FALSE	NA	0.151	NA	9/15/21	1-A	1	Dandelion	NA	NA	taken straight from block net	NA	D
+lab-p3-sample-128	128	lab.p3.sample.128	M. rotundata	Dandelion + Sumac	3	M. rotundata	FALSE	NA	0.145	NA	9/15/21	2-D	2	Dandelion + Sumac	NA	NA	taken straight from block net	NA	D + S
+lab-p3-sample-129	129	lab.p3.sample.129	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.145	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	taken straight from block net	NA	D + S + H
+lab-p3-sample-130	130	lab.p3.sample.130	M. rotundata	Sumac	3	M. rotundata	FALSE	NA	0.149	NA	9/15/21	1-B	1	Sumac	NA	NA	taken straight from block net	NA	S
+lab-p3-sample-131	131	lab.p3.sample.131	M. rotundata	Dandelion + Hawthorn	3	M. rotundata	FALSE	NA	0.141	NA	9/15/21	2-E	2	Dandelion + Hawthorn	NA	NA	taken straight from block net	NA	D + H
+lab-p3-sample-132	132	lab.p3.sample.132	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.158	NA	9/15/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	taken straight from block net	NA	D + S + H
+lab-p3-sample-133	133	lab.p3.sample.133	M. rotundata	Hawthorn	3	M. rotundata	FALSE	NA	0.142	NA	9/15/21	1-C	1	Hawthorn	NA	NA	taken straight from block net	NA	H
+lab-p2-sample-134	134	lab.p2.sample.134	M. rotundata	Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.146	NA	9/15/21	2-F	2	Sumac + Hawthorn	NA	NA	taken straight from block net	NA	S + H
+lab-p2-sample-135	135	lab.p2.sample.135	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.152	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p2-sample-136	136	lab.p2.sample.136	M. rotundata	Dandelion	2	M. rotundata	FALSE	NA	0.148	NA	9/16/21	1-A	1	Dandelion	NA	NA	NA	NA	D
+lab-p2-sample-137	137	lab.p2.sample.137	M. rotundata	Dandelion + Sumac	2	M. rotundata	FALSE	NA	0.157	NA	9/16/21	2-D	2	Dandelion + Sumac	NA	NA	NA	NA	D + S
+lab-p2-sample-138	138	lab.p2.sample.138	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.14	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p2-sample-139	139	lab.p2.sample.139	M. rotundata	Sumac	2	M. rotundata	FALSE	NA	0.144	NA	9/16/21	1-B	1	Sumac	NA	NA	NA	NA	S
+lab-p2-sample-140	140	lab.p2.sample.140	M. rotundata	Dandelion + Hawthorn	2	M. rotundata	FALSE	NA	0.135	NA	9/16/21	2-E	2	Dandelion + Hawthorn	NA	NA	NA	NA	D + H
+lab-p2-sample-141	141	lab.p2.sample.141	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.139	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p3-sample-142	142	lab.p3.sample.142	M. rotundata	Hawthorn	3	M. rotundata	FALSE	NA	0.145	NA	9/16/21	1-C	1	Hawthorn	NA	NA	NA	NA	H
+lab-p3-sample-143	143	lab.p3.sample.143	M. rotundata	Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.131	NA	9/16/21	2-F	2	Sumac + Hawthorn	NA	NA	NA	NA	S + H
+lab-p3-sample-144	144	lab.p3.sample.144	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.137	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p3-sample-145	145	lab.p3.sample.145	M. rotundata	Dandelion	3	M. rotundata	FALSE	NA	0.14	NA	9/16/21	1-A	1	Dandelion	NA	NA	NA	NA	D
+lab-p3-sample-146	146	lab.p3.sample.146	M. rotundata	Dandelion + Sumac	3	M. rotundata	FALSE	NA	0.15	NA	9/16/21	2-D	2	Dandelion + Sumac	NA	NA	NA	NA	D + S
+lab-p3-sample-147	147	lab.p3.sample.147	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.142	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p3-sample-148	148	lab.p3.sample.148	M. rotundata	Sumac	3	M. rotundata	FALSE	NA	0.142	NA	9/16/21	1-B	1	Sumac	NA	NA	NA	NA	S
+lab-p3-sample-150	150	lab.p3.sample.150	M. rotundata	Dandelion + Sumac + Hawthorn	3	M. rotundata	FALSE	NA	0.141	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p2-sample-151	151	lab.p2.sample.151	M. rotundata	Hawthorn	2	M. rotundata	FALSE	NA	0.144	NA	9/16/21	1-C	1	Hawthorn	NA	NA	NA	NA	H
+lab-p2-sample-152	152	lab.p2.sample.152	M. rotundata	Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.129	NA	9/16/21	2-F	2	Sumac + Hawthorn	NA	NA	NA	NA	S + H
+lab-p2-sample-153	153	lab.p2.sample.153	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.14	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p2-sample-154	154	lab.p2.sample.154	M. rotundata	Dandelion	2	M. rotundata	FALSE	NA	0.149	NA	9/16/21	1-A	1	Dandelion	NA	NA	NA	NA	D
+lab-p2-sample-155	155	lab.p2.sample.155	M. rotundata	Dandelion + Sumac	2	M. rotundata	FALSE	NA	0.129	NA	9/16/21	2-D	2	Dandelion + Sumac	NA	NA	NA	NA	D + S
+lab-p2-sample-156	156	lab.p2.sample.156	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.143	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p2-sample-157	157	lab.p2.sample.157	M. rotundata	Sumac	2	M. rotundata	FALSE	NA	0.147	NA	9/16/21	1-B	1	Sumac	NA	NA	NA	NA	S
+lab-p2-sample-159	159	lab.p2.sample.159	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.144	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p2-sample-160	160	lab.p2.sample.160	M. rotundata	Hawthorn	2	M. rotundata	FALSE	NA	0.135	NA	9/16/21	1-C	1	Hawthorn	NA	NA	NA	NA	H
+lab-p2-sample-161	161	lab.p2.sample.161	M. rotundata	Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.138	NA	9/16/21	2-F	2	Sumac + Hawthorn	NA	NA	NA	NA	S + H
+lab-p2-sample-162	162	lab.p2.sample.162	M. rotundata	Dandelion + Sumac + Hawthorn	2	M. rotundata	FALSE	NA	0.14	NA	9/16/21	3-G	3	Dandelion + Sumac + Hawthorn	NA	NA	NA	NA	D + S + H
+lab-p2-sample-163	163	lab.p2.sample.163	M. rotundata	Dandelion	2	M. rotundata	FALSE	NA	0.135	NA	9/16/21	1-A	1	Dandelion	NA	NA	NA	NA	D
+lab-p2-sample-164	164	lab.p2.sample.164	M. rotundata	Dandelion + Sumac	2	M. rotundata	FALSE	NA	0.152	NA	9/16/21	2-D	2	Dandelion + Sumac	NA	NA	NA	NA	D + S
