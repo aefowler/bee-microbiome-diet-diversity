@@ -65,7 +65,7 @@ anova(m.div_bray.betadisper)
 # adonis 
 m.perms.n <- with(m.df, how(nperm = 1000, blocks = Emerge_start_date))
 adonis2(m.bray ~ diet, permutations = m.perms.n, data = m.df, pairwise = TRUE)
-adonis2(m.bray ~ No_pollen_spp, data = m.df)
+adonis2(m.bray ~ No_pollen_spp, permutations = m.perms.n, data = m.df, pairwise = TRUE)
 
 # unweighted unifrac
 m.uni <- distance(m.physeq1, method = "unifrac")
